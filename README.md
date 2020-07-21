@@ -1,5 +1,5 @@
 # NOTICE
-Most new features of gtschdeuler.tech have been integrated into ![https://jasonpark.me/gt-scheduler/](https://jasonpark.me/gt-scheduler/). Please use this URL from now on.
+Most new features of gtschdeuler.tech have been integrated into [https://jasonpark.me/gt-scheduler/](https://jasonpark.me/gt-scheduler/). Please use this URL from now on.
 
 This website will be deprecated.
 
